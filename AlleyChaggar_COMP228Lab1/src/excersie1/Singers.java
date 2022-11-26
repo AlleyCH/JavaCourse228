@@ -13,15 +13,15 @@ public class Singers {
 		
 	}
 	
-	private void singers(int id) {
+	private void Singers(int id) {
 		this.id = id;
 	}
 	
-	private void singers(int id, String name) {
+	private void Singers(int id, String name) {
 		this.id = id;
 		this.name = name;
 	}
-	private void singers(int id, String name, String address) {
+	private void Singers(int id, String name, String address) {
 		this.id = id;
 		this.name = name;
 		this.address = address;
@@ -32,7 +32,7 @@ public class Singers {
 		this.address = address;
 		this.dob = dob;
 	}
-	private void singers(int id, String name, String address, String dob, int noOfAlbums) {
+	private void Singers(int id, String name, String address, String dob, int noOfAlbums) {
 		this.id = id;
 		this.name = name;
 		this.address = address;

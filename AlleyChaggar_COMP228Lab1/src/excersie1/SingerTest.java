@@ -26,7 +26,7 @@ public class SingerTest {
 		System.out.printf("Singer Add: %s %n", singer1.getAddress());
 		System.out.printf("Singer Date of birth: %s %n", singer1.getDob());
 		System.out.printf("Singer # of albums: %d %n", singer1.getNoOfAlbums());
-		
+	
 	}
 
 }
